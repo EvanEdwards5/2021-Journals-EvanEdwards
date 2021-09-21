@@ -1,0 +1,28 @@
+-Name: Evan Edwards
+-Journal: J1032
+-Date: 9/21/2021
+I received assistance from: Pranav
+I assisted: Mei
+
+-1.1:
+1)00001011
+2)10001011
+3)(00001011) + (10001011) = (00000000)
+4) 2
+5) No, I would assume it would be much better to only have one version of a number in order to not confuse anyone or anything, also for convenience.
+
+-What did I learn? What is the "big idea"?
+
+Both Positive & Negative Integers
+
+-What challenges did I encounter?
+
+
+
+-How could this experience be improved?
+
+Explain how to do #3 (properly add/subtract Integers)
+
+-Free Reflection: How has what I've learned impacted my thinking?
+
+It has taught me to recognize integers and patterns
